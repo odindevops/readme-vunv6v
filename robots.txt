@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odindevops.github.io/readme-vunv6v/sitemap.xml
